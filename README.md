@@ -2,20 +2,20 @@
 
 **Senior Frontend Engineer · React.js · Next.js · TypeScript**
 
-Frontend engineer with **5+ years of experience** building production web applications, reusable UI systems, and scalable frontend architecture.
+Frontend engineer with **5+ years of experience** building production web applications, scalable frontend architecture, reusable UI systems, and performance-focused React/Next.js products.
 
-My work focuses on React/Next.js application architecture, performance, server-state management, accessibility, testing, and production delivery.
+I work across **frontend architecture, state and data management, accessibility, testing, CI/CD, and production delivery**.
 
 [Portfolio](https://kuldip-portfolio-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/)
 
 ---
 
-## Engineering Highlights
+## Engineering Impact
 
-- Built frontend systems handling **100,000+ geospatial data points** across **15+ Mapbox layers**
-- Built **50+ reusable UI components** for modular digital-banking onboarding journeys
-- Reduced duplicate API requests by **40%** through TanStack Query and improved server-state architecture
-- Improved initial page-load performance by **up to 35%**, achieving **90+ Lighthouse scores**
+* Rendered **100,000+ geospatial data points** across **15+ Mapbox layers** with interactive visualization and clustering
+* Built **50+ reusable UI components** for modular digital-banking onboarding journeys
+* Reduced duplicate API requests by **40%** through improved server-state architecture with **TanStack Query**
+* Improved initial page-load performance by **up to 35%**, achieving **90+ Lighthouse scores**
 
 ---
 
@@ -23,37 +23,50 @@ My work focuses on React/Next.js application architecture, performance, server-s
 
 ### [Servora](https://github.com/kuldip11/servora)
 
-Multi-tenant restaurant operations platform covering **POS, Kitchen, Waiter, Customer Ordering, Inventory, Billing, Payments, and Backend APIs**.
+Multi-tenant restaurant operations platform spanning **Admin/POS, Kitchen Display, Waiter, Customer Ordering, Marketing Website, and Backend API**.
 
-`React` · `TypeScript` · `TanStack Query` · `Bun` · `Turborepo` · `PostgreSQL` · `Redis` · `Vitest` · `Playwright`
+Built as a **TypeScript/Bun/Turborepo monorepo** with shared packages, RBAC, server-state management, PostgreSQL, Redis, automated testing, and CI/CD.
+
+`React` · `Next.js` · `TypeScript` · `TanStack Query` · `Bun` · `Turborepo` · `PostgreSQL` · `Redis` · `Vitest` · `Playwright`
+
+[Source Code](https://github.com/kuldip11/servora) ·
+[Marketing Website](https://servora-one.vercel.app/) ·
+[Admin / POS](https://servora-web-lyart.vercel.app/) ·
+[Customer](https://servora-customer.vercel.app/) ·
+[Kitchen](https://servora-kitchen.vercel.app/) ·
+[Waiter](https://servora-waiter.vercel.app/)
 
 ---
 
 ### [Portfolio](https://github.com/kuldip11/kuldip.github.io)
 
-Production-oriented personal portfolio built with **Next.js, React, and TypeScript**, with emphasis on architecture, accessibility, SEO, testing, and performance.
+Production-oriented **Next.js / React engineering portfolio** focused on typed architecture, accessibility, responsive design, SEO, automated testing, and performance.
 
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Playwright`
+
+[Source Code](https://github.com/kuldip11/kuldip.github.io) ·
 [Live Site](https://kuldip-portfolio-alpha.vercel.app/)
 
 ---
 
 ### [TallyLite](https://github.com/kuldip11/TallyLite)
 
-Lightweight TypeScript business application exploring spreadsheet-backed persistence with clean separation between application and persistence concerns.
+Lightweight TypeScript business application exploring **spreadsheet-backed persistence** with clean separation between application and persistence concerns.
 
+`TypeScript` · `React` · `Clean Architecture`
+
+[Source Code](https://github.com/kuldip11/TallyLite) ·
 [Live App](https://tallylite.netlify.app/)
 
 ---
 
 ## Core Technologies
 
-**React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · TanStack Query · Tailwind CSS**
+**Frontend**
+React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · TanStack Query · Tailwind CSS
 
-Vitest · Playwright · Testing Library · Node.js · REST APIs · PostgreSQL · Redis · Bun · Turborepo · GitHub Actions · Mapbox
+**Architecture & Quality**
+Frontend Architecture · Component Systems · Design Systems · Accessibility · Performance · Vitest · Playwright · Testing Library
 
----
-
-## Connect
-
-[Portfolio](https://kuldip-portfolio-alpha.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/)
+**Platform**
+Node.js · Bun · Turborepo · REST APIs · PostgreSQL · Redis · Docker · GitHub Actions · Mapbox
