@@ -1,148 +1,59 @@
-```md
 # Kuldip Kumar Sah
 
-### Senior Frontend Engineer — React.js · Next.js · TypeScript
+**Senior Frontend Engineer · React.js · Next.js · TypeScript**
 
-I build scalable frontend systems and production web applications with a focus on **frontend architecture, performance, reusable UI systems, server-state management, accessibility, testing, and maintainable engineering workflows**.
+Frontend engineer with **5+ years of experience** building production web applications, reusable UI systems, and scalable frontend architecture.
 
-[Portfolio](https://kuldip-portfolio-alpha.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/)
+My work focuses on React/Next.js application architecture, performance, server-state management, accessibility, testing, and production delivery.
 
----
-
-## About
-
-Frontend engineer with **5+ years of experience** building and modernizing production web applications using React, Next.js, TypeScript, and modern frontend architecture patterns.
-
-I work beyond individual UI screens — across application architecture, component systems, state management, API integration, performance optimization, testing, CI/CD, and production delivery.
+[Portfolio](https://kuldip-portfolio-alpha.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/)
 
 ---
 
 ## Engineering Highlights
 
-- Built frontend systems rendering **100,000+ geospatial data points** across **15+ Mapbox layers**
+- Built frontend systems handling **100,000+ geospatial data points** across **15+ Mapbox layers**
 - Built **50+ reusable UI components** for modular digital-banking onboarding journeys
-- Reduced duplicate API requests by **40%** through improved server-state architecture using **TanStack Query**
+- Reduced duplicate API requests by **40%** through TanStack Query and improved server-state architecture
 - Improved initial page-load performance by **up to 35%**, achieving **90+ Lighthouse scores**
-- Designed frontend architecture around reusable components, clear feature boundaries, RBAC, testing, and maintainable state/data flows
 
 ---
 
 ## Featured Projects
 
-### Servora — Restaurant Operations Platform
+### [Servora](https://github.com/kuldip11/servora)
 
-A multi-application restaurant SaaS/POS ecosystem covering:
+Multi-tenant restaurant operations platform covering **POS, Kitchen, Waiter, Customer Ordering, Inventory, Billing, Payments, and Backend APIs**.
 
-`Admin / POS` · `Kitchen Display` · `Waiter` · `Customer Ordering` · `Marketing Website` · `Backend API`
-
-Built as a **TypeScript + Bun + Turborepo monorepo** with shared packages for UI, types, validation, API communication, realtime infrastructure, and configuration.
-
-#### Architecture
-
-- Multi-tenant organization → franchise → branch model
-- Role-based access control across multiple system roles
-- Shared frontend packages and application-level feature boundaries
-- Server-state management using TanStack Query
-- REST API integration with PostgreSQL and Redis
-- Independent application deployment
-- Automated testing across frontend and backend layers
-- CI/CD quality gates for type checking, linting, builds, and tests
-
-#### Stack
-
-`React`
-`TypeScript`
-`TanStack Query`
-`Bun`
-`Turborepo`
-`Node.js`
-`PostgreSQL`
-`Redis`
-`Vitest`
-`Playwright`
-`GitHub Actions`
-
-#### Live Applications
-
-- [Admin / POS](https://servora-web-lyart.vercel.app/)
-- [Customer Ordering](https://servora-customer.vercel.app/)
-- [Kitchen Display](https://servora-kitchen.vercel.app/)
-- [Waiter App](https://servora-waiter.vercel.app/)
+`React` · `TypeScript` · `TanStack Query` · `Bun` · `Turborepo` · `PostgreSQL` · `Redis` · `Vitest` · `Playwright`
 
 ---
 
-### Personal Portfolio
+### [Portfolio](https://github.com/kuldip11/kuldip.github.io)
 
-A production-oriented engineering portfolio built with **Next.js, React, and TypeScript**.
+Production-oriented personal portfolio built with **Next.js, React, and TypeScript**, with emphasis on architecture, accessibility, SEO, testing, and performance.
 
-Rather than treating the portfolio as a static site, I use it to apply the same practices I use in production applications:
-
-- Typed content architecture
-- Reusable component boundaries
-- Responsive layouts
-- Accessibility
-- SEO and metadata
-- Automated testing
-- Performance optimization
-- CI/CD quality checks
-
-[View Portfolio](https://kuldip-portfolio-alpha.vercel.app/)
+[Live Site](https://kuldip-portfolio-alpha.vercel.app/)
 
 ---
 
-### TallyLite
+### [TallyLite](https://github.com/kuldip11/TallyLite)
 
-A lightweight business application exploring **user-owned spreadsheet persistence** behind clean application and repository boundaries.
+Lightweight TypeScript business application exploring spreadsheet-backed persistence with clean separation between application and persistence concerns.
 
-The project separates persistence concerns from application logic while keeping the user-facing workflow simple.
-
-[View TallyLite](https://tallylite.netlify.app/)
+[Live App](https://tallylite.netlify.app/)
 
 ---
 
-## Technical Stack
+## Core Technologies
 
-**Frontend**
+**React.js · Next.js · TypeScript · JavaScript · Redux Toolkit · TanStack Query · Tailwind CSS**
 
-`React.js` · `Next.js` · `TypeScript` · `JavaScript` · `Redux Toolkit` · `TanStack Query` · `Tailwind CSS`
-
-**Frontend Engineering**
-
-`Frontend Architecture` · `Component Architecture` · `Design Systems` · `Server State` · `State Management` · `Responsive UI` · `Accessibility` · `Performance`
-
-**Testing & Quality**
-
-`Vitest` · `Playwright` · `Testing Library` · `ESLint` · `Prettier` · `TypeScript`
-
-**Platform**
-
-`Node.js` · `Bun` · `Turborepo` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions` · `Vercel`
-
-**Specialized Experience**
-
-`Mapbox` · `Geospatial Visualization` · `RBAC` · `Multi-Tenant Systems`
-
----
-
-## Engineering Interests
-
-I particularly enjoy working on:
-
-- Large-scale React / Next.js application architecture
-- Reusable component and design-system foundations
-- Server-state vs client-state architecture
-- Frontend performance and rendering optimization
-- Complex RBAC and multi-tenant applications
-- Frontend testing strategies
-- CI/CD and production delivery
-- Developer experience and maintainable codebases
+Vitest · Playwright · Testing Library · Node.js · REST APIs · PostgreSQL · Redis · Bun · Turborepo · GitHub Actions · Mapbox
 
 ---
 
 ## Connect
 
 [Portfolio](https://kuldip-portfolio-alpha.vercel.app/) ·
-[LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/) ·
-[GitHub](https://github.com/kuldip11)
-```
+[LinkedIn](https://www.linkedin.com/in/kuldip-kumar-sah/)
